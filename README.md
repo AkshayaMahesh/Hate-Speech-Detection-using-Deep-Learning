@@ -2,8 +2,7 @@
 
 🚫🤬 This project aims to detect and classify hate speech in social media posts and other text data. 📈🕵️‍♀️
 
-## Overview
-
+## Overview!
 The goal of this project is to develop a machine learning model that can accurately identify instances of hate speech, as well as distinguish between different types of hate speech (e.g. racism, sexism, homophobia, etc.). 🤖🔍
 
 ## Dataset
@@ -13,7 +12,9 @@ https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-datase
 
 <img src="https://user-images.githubusercontent.com/97194041/233807157-916b2ca5-3f88-448e-8e7f-bb6d4144d2c3.png" width = 400 height = 400/>
 
-<img src="https://user-images.githubusercontent.com/97194041/233807109-36cb8496-9ce2-4f13-84e2-614f80d63827.png" width = 400 height = 400/>
+<img src ="https://user-images.githubusercontent.com/97194041/233814844-e816be63-ffb3-416f-be3e-e9ad0625b62a.png" width = 400 height = 400/>
+
+<img src="https://user-images.githubusercontent.com/97194041/233814845-57f482c3-73f2-4d1b-a0b7-a5dd16e43614.png" width = 400 height = 400/>
 
 ## Approach
 
